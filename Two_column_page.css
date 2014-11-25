@@ -1,0 +1,40 @@
+body{
+	width:624px;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	display:block;
+}
+
+.social{
+	position:fixed;
+	float:left;
+	margin-right: 30px;
+}
+
+h3{
+	text-align: center;
+	margin-top: inherit;
+	margin-bottom: 4px;
+}
+
+ul{
+	margin:4px;
+	padding-left:25px;
+}
+
+.Been{
+	margin-left: 55px;
+	float:left;
+	width:42%;
+}
+
+.Go{
+	margin-left:20px;
+	float:left;
+	width:42%;
+}

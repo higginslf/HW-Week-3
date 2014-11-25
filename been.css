@@ -1,0 +1,19 @@
+
+
+body{
+	width:624px;
+}
+
+a{
+	float:right;
+}
+
+h1{
+	text-align: center;
+}
+
+div{
+	float:left;
+	width:200px;
+	margin:4px;
+}

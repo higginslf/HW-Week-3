@@ -1,0 +1,25 @@
+
+body{
+	width:824px
+}
+
+a{
+	float:right;
+}	
+
+h1{
+	text-align:center;
+	margin:0 auto;
+}
+
+h3{
+	text-align: center;
+}
+
+img{
+	float:left;
+	width:400px;
+	height: 400px;
+	padding:6px;
+
+}
